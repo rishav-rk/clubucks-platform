@@ -1,0 +1,2 @@
+<?php
+$emailPass = 'fizlqbgycewuyiri';
